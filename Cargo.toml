@@ -346,7 +346,7 @@ qualifier_attr = { version = "0.2.2", default-features = false }
 quinn = "0.11.9"
 quinn-proto = "0.11.14"
 quote = "1.0"
-rand = "0.9.2"
+rand = "0.10.0"
 rand_chacha = "0.9.0"
 rayon = "1.11.0"
 reed-solomon-erasure = "6.0.0"
